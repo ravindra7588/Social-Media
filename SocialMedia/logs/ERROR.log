@@ -1,0 +1,44 @@
+2021-04-19 22:41:39 ERROR comments for post id 100Not Found
+2021-04-19 22:41:54 ERROR comments for user id 18Not Found
+2021-04-19 22:42:42 ERROR comment for comment id 12Not Found
+2021-04-20 09:31:56 ERROR post for user id 90Not Found
+2021-04-20 09:45:51 ERROR post with id100Not Found
+2021-04-20 09:47:36 ERROR post with id26Not Found
+2021-04-20 09:48:22 ERROR comments for user id 90Not Found
+2021-04-20 09:51:24 ERROR post with id23Not Found
+2021-04-20 10:18:01 ERROR user already exists
+2021-04-20 10:18:14 ERROR user already exists
+2021-04-20 10:24:25 ERROR invalid email/password
+
+2021-04-20 11:32:33 ERROR friend list with user100null
+2021-04-20 11:35:24 ERROR friend list with user100null
+2021-04-20 11:36:29 ERROR friend list with user100null
+2021-04-20 11:37:12 ERROR friend list with user100null
+2021-04-20 11:38:22 ERROR friend list with user100no friend found
+2021-04-20 11:58:06 ERROR delete the friend request100200 user are not deleted
+2021-04-20 12:24:46 ERROR friend request user9 no friend request
+2021-04-20 12:26:13 ERROR request send tobala ravifail to send a request 
+2021-04-20 19:47:56 ERROR friend request user15 no friend request
+2021-04-20 19:59:31 ERROR friend request user8 no friend request
+2021-04-20 22:24:15 ERROR friend request user8 no friend request
+2021-04-20 22:26:36 ERROR friend request user8 no friend request
+2021-04-21 11:17:33 ERROR friend list with user30 no friend found
+2021-04-21 11:47:37 ERROR request send toravi ashokfail to send a request 
+2021-04-26 08:48:49 ERROR 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-04-26 08:56:14 ERROR friend list with user31 no friend found
+2021-04-26 09:39:40 ERROR friend list with user31 no friend found
+2021-04-26 09:40:02 ERROR friend request user31 no friend request
+2021-04-26 09:40:07 ERROR friend request user31 no friend request
