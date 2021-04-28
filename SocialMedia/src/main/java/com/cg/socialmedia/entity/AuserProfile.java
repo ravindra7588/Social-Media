@@ -10,6 +10,7 @@ import javax.persistence.Table;
 @Entity
 @Table (name="auser_profile")
 public class AuserProfile {
+	//
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
